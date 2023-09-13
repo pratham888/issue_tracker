@@ -1,0 +1,24 @@
+.footerBackground {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgb(219, 32, 32) 0%, rgb(212, 238, 249) 48%, rgba(130, 71, 193, 0.784) 100%);
+  }
+  .footerBackground div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .footerBackground div .name {
+    margin-left: 5px;
+    margin-top: 4px !important;
+    color: rgb(5, 26, 2);
+  }
+  .footerBackground div a {
+    margin: 0px !important;
+    background-color: rgb(19, 2, 2);
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(116, 103, 103, 0.2);
+  }
+  
+  /*# sourceMappingURL=footer.css.map */
