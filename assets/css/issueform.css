@@ -1,6 +1,6 @@
 #issue-container button {
-    background-color: black;
-    color: white;
+    background-color: rgb(246, 242, 242);
+    color: rgb(16, 16, 16);
     border: 1px solid white;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
